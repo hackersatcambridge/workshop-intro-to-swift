@@ -9,11 +9,9 @@ contributors:
 thanks: []
 
 # (optional) Links that attendees may wish to read after the workshop
-# further_reading_links:
-#   - text: Sampling
-#     url: https://en.wikipedia.org/wiki/Sampling_(music)
-#   - text: Best websites a programmer should visit
-#     url: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-practice-for-beginners
+ further_reading_links:
+   - text: Feedback Form
+     url: https://docs.google.com/forms/d/1lzv9LyWYTQ7kab6xnCreVDNjHAfYLG_ei0ALZ1-b530/edit
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
