@@ -9,9 +9,11 @@ contributors:
 thanks: []
 
 # (optional) Links that attendees may wish to read after the workshop
- further_reading_links:
-   - text: Feedback Form
-     url: https://docs.google.com/forms/d/1lzv9LyWYTQ7kab6xnCreVDNjHAfYLG_ei0ALZ1-b530/edit
+further_reading_links:
+  - text: Feedback Form
+    url: https://docs.google.com/forms/d/1lzv9LyWYTQ7kab6xnCreVDNjHAfYLG_ei0ALZ1-b530/edit
+  - text: Swift Package Manager
+    url: https://swift.org/package-manager/
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
