@@ -39,14 +39,14 @@ In practice, Google is usually a quicker way to find the information you need.
 
 ## Getting started
 
-To follow along with this workshop, you'll first need to download [the example repository](https://github.com/hackersatcambridge/workshop-intro-to-swift/archive/master.zip). Unzip it into your machine and go to the `/examples` folder in your terminal of choice.
+To follow along with this workshop, you'll first need to download [the example repository](https://github.com/hackersatcambridge/workshop-intro-to-swift/archive/master.zip). Unzip it into your machine open the folder in your terminal of choice.
 
 Alternatively, you can clone the example repository:
 
 ```bash
 $ git clone https://github.com/hackersatcambridge/workshop-intro-to-swift
 Cloning into workshop-intro-to-git...
-$ cd workshop-intro-to-git/examples
+$ cd workshop-intro-to-git
 ```
 
 ### Running Swift
